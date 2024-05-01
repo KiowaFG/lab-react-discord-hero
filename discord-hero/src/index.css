@@ -1,0 +1,68 @@
+*{
+  background-color: #404EED;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+
+}
+
+body{
+  padding: 0 20px;
+  width: 80vw;
+
+}
+
+h1,
+h2,
+h3{
+  font-family: 'Poppins', sans-serif;
+  color: white;
+}
+
+h1{
+  font-size: 80px;
+  max-width: 50vw;
+  line-height: 100%;
+  padding-bottom: 30px;
+}
+
+p{
+  font-family: 'Roboto', sans-serif;
+  color: white;
+  max-width: 50vw;
+}
+
+.button1{
+  background-color: white;
+  color: black;
+  padding: 15px;
+  border-radius: 30px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.button2{
+  background-color: black;
+  color: white;
+  padding: 15px;
+  border-radius: 30px;
+  font-family: 'Roboto', sans-serif;
+}
+.backgroundArt{
+  position: absolute;
+  left: 60vw;
+  width: 40vw;
+  bottom: 0;
+  
+
+}
+
+ul{
+  list-style: none;
+  padding-top:30px;
+}
+li{
+  padding-top:20px
+}
+
+
+

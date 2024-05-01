@@ -1,0 +1,19 @@
+nav{
+    width: 100vw;
+    display: flex;
+    align-items: space-between;
+    justify-content: space-between;
+    padding: 20px;
+  }
+  
+  .discordLogo{
+    width: 130px;
+    height: fit-content;
+    
+  }
+  
+  .menuIcon{
+    width: 40px;
+    height: fit-content;
+  }
+
